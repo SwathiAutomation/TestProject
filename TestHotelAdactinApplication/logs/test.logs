@@ -1,0 +1,8 @@
+2021-04-15 15:56:25 INFO  TestBase:31 - Driver launched successfully
+2021-04-15 15:56:33 INFO  TestBase:37 - Login page launched successfully
+2021-04-15 15:56:35 INFO  TestBase:39 - Search hotel successfully
+2021-04-15 15:56:35 INFO  TestBase:41 - Select hotel successfully
+2021-04-15 15:56:37 INFO  TestBase:43 - Book hotel successfully
+2021-04-15 15:56:42 INFO  TestBase:45 - Book confirmation success
+2021-04-15 15:56:44 INFO  TestBase:47 - Booked itinerary successfully
+2021-04-15 15:56:45 INFO  TestBase:56 - logged out successfully

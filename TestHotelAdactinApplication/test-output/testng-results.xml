@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-15T15:56:11 AEST" name="Default suite" finished-at="2021-04-15T15:56:45 AEST" duration-ms="34136">
+    <groups>
+    </groups>
+    <test started-at="2021-04-15T15:56:11 AEST" name="Default test" finished-at="2021-04-15T15:56:45 AEST" duration-ms="34136">
+      <class name="com.adactin.pageObjects.TestBase">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.adactin.pageObjects.TestBase@5e600dd5]" started-at="2021-04-15T15:56:11 AEST" name="setUp" finished-at="2021-04-15T15:56:25 AEST" duration-ms="14055" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="allPages()[pri:0, instance:com.adactin.pageObjects.TestBase@5e600dd5]" started-at="2021-04-15T15:56:25 AEST" name="allPages" finished-at="2021-04-15T15:56:44 AEST" duration-ms="19265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allPages -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.adactin.pageObjects.TestBase@5e600dd5]" started-at="2021-04-15T15:56:45 AEST" name="close" finished-at="2021-04-15T15:56:45 AEST" duration-ms="743" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.adactin.pageObjects.TestBase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
